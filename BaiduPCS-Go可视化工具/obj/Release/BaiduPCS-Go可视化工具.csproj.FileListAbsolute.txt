@@ -1,0 +1,13 @@
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\bin\Release\BaiduPCS-Go可视化工具.exe.config
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\bin\Release\BaiduPCS-Go可视化工具.exe
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\bin\Release\BaiduPCS-Go可视化工具.pdb
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS_Go可视化工具.Form1.resources
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS_Go可视化工具.Properties.Resources.resources
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS-Go可视化工具.csproj.GenerateResource.cache
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS-Go可视化工具.csproj.CoreCompileInputs.cache
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS-Go可视化工具.exe
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS-Go可视化工具.pdb
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS-Go可视化工具.csprojResolveAssemblyReference.cache
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\bin\Release\zh-CN\BaiduPCS-Go可视化工具.resources.dll
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\BaiduPCS_Go可视化工具.Form1.zh-CN.resources
+C:\Users\szcwe\source\repos\BaiduPCS-Go可视化工具\BaiduPCS-Go可视化工具\obj\Release\zh-CN\BaiduPCS-Go可视化工具.resources.dll
