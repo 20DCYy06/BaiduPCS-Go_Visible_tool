@@ -30,24 +30,25 @@ namespace BaiduPCS_Go可视化工具
             while ((line = sr.ReadLine()) != null)
             {
                 //RootFolder
-                if (stateRoot == 0)
-                {
+                //if (stateRoot == 0)
+                //{
                     //CheckLine
-                    if (i > 8)
+                    if (i >8)
                     {
-                        if (line.Length > 42)
+                        if (line.Length >=40)
                         {
                             //GetFile/FolderName and Add to ListBox
-                            line = line.Substring(41, line.Length - 41);
+                            line = line.Substring(39, line.Length - 39);
                             this.listBox1.Items.Add(line);   //增加读出的内容到listbox 
                         }
                     }
-                }
+                //}
                 //Other Folder
+                /*
                 if (stateRoot == 1)
                 {
                     //Check line
-                    if (i > 7)
+                    if (i >7 )
                     {
                         if (line.Length > 40)
                         {//GetFile/FolderName and Add to ListBox
@@ -56,10 +57,14 @@ namespace BaiduPCS_Go可视化工具
                         }
                     }
                 }
+                */
                 i++;
             }
             //Delete Last Item
-            this.listBox1.Items.RemoveAt(this.listBox1.Items.Count-1);
+            if (this.listBox1.Items.Count > 0)
+            {
+                this.listBox1.Items.RemoveAt(this.listBox1.Items.Count - 1);
+            }
         }
         public Form1()
         {
